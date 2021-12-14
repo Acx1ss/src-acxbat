@@ -3092,7 +3092,6 @@ exit /break
 
 
 :error
-:: es que el color siempre pasa de modo en temporal en mi mente
 color 07
 title __AUto__setup
 mode con: lines=42 cols=92
